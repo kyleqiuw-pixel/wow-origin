@@ -148,7 +148,7 @@ Rewrite 的单文件页面位于 `rewrite/ui/index.html`，QuanX 和 Loon 配置
 - Docker 构建不会包含本地 `data/` 和 `.env`。
 - 若凭据曾进入公开仓库或日志，请立即刷新凭据并清理 Git 历史。
 
-## 致谢
+## 致谢 
 
 本项目基于 [Aduoer-Music/aduoer-wow-template](https://github.com/Aduoer-Music/aduoer-wow-template)，并参考了以下项目：
 
