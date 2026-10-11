@@ -161,3 +161,5 @@ Rewrite 的单文件页面位于 `rewrite/ui/index.html`，QuanX 和 Loon 配置
 ## 许可与免责声明
 
 项目采用 [MIT License](LICENSE)，仅供学习与交流。使用者应遵守所在地法律、平台服务条款及内容版权要求，并自行承担使用后果。
+<!-- rebuild -->
+
